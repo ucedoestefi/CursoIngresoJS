@@ -4,6 +4,10 @@
 */
 function Mostar()
 {
-	
+var nombre;
+
+nombre = prompt("ingrese");	
+document.getElementById("elNombre").value = nombre;
+
 }
 
