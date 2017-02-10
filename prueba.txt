@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<htnl lang = "en">
+<head>
+<meta charset = "UTF-8">
+<title> ejercicios </title>
+<head>
+<body>
+   <hl>repositorio codigo facilito </hl>
+</body>
+</html>
